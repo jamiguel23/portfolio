@@ -1,11 +1,11 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
-      "titles": [ "Software Developer" ],
+      "name": "Matt Miguel",
+      "titles": [ "Software Development Student @ Code Fellows", " | Zillow Alumni"],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/jamiguel23",
           "class": "fab fa-github"
         },
         {
@@ -14,7 +14,8 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "headshot.png"
+  
     },
     "skills": {
       "icons": [
