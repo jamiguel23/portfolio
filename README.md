@@ -1,3 +1,20 @@
-# Modify this portfolio
+# Description
+Here you will see the software development portfolio for J.Matt Miguel
 
-Make it your own! 
+
+## Deployed Site
+  https://jmattmiguel-protfolio.netlify.app/ 
+
+## Time Estimate
+
+Number and name of feature: ________________________________
+
+Estimate of time needed to complete: _____
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+
