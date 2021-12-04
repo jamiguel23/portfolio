@@ -80,42 +80,55 @@
             "class": "devicon-css3-plain",
             "name": "CSS3"
           }
+          
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Student",
+        "years": "12.2020-Present",
         "mainTech": [
-          "Angular 8/9/10"
+          
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+        
+          "React",
+          "CSS3",
+          "HTML5",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Bootstrap"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Zillow Group",
+        "title": "Pricing Analyst",
+        "years": "03.2020 - 01.2022",
         "mainTech": [
-          "Angular 7/8"
+         
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Excel",
+          "Tableau",
+          "Salesforce",
+          "Google Sheets",
+          "Slack"
+        ]
+      },
+      {
+        "company": "Zillow Group",
+        "title": "Connections specialist",
+        "years": "08.2018-03.2020",
+        "mainTech": [
+          
+        ],
+        "technologies": [
+          "Excel",
+          "Tableau",
+          "Salesforce",
+          "Google Sheets",
+          "Slack"
         ]
       }
     ]
