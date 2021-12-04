@@ -11,30 +11,6 @@
     },
     "projects": [
       {
-        "title": "GitStop",
-        "startDate": "June 2020",
-        "description": "Play games and compete with the leaderboard at Gitstop!",
-        "images": [
-          "images/portfolio/gitstop/gitstop.png",
-          "images/portfolio/gitstop/gitstop2.png"
-        ],
-        "url": "https://earth-fire-water.github.io/gitstop/index.html",
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML 5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
-          }
-        ]
-      },
-      {
         "title": "BusMall",
         "startDate": "June 2020",
         "description": "BusMall lab where were practiced data structure queues where new images will render after clicking an image. Images clicked are then added to a counter where after a certain amount of clicks a table will auto render showing which photos were viewed and clicked on an amount of times.",
@@ -61,10 +37,34 @@
       {
         "title": "GitStop",
         "startDate": "June 2020",
-        "description": "Play games and compete with the leaderboard at Gitstop!.",
+        "description": "Play games and compete with the leaderboard at Gitstop!",
         "images": [
           "images/portfolio/gitstop/gitstop.png",
           "images/portfolio/gitstop/gitstop2.png"
+        ],
+        "url": "https://earth-fire-water.github.io/gitstop/index.html",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          }
+        ]
+      },
+      {
+        "title": "Salmon Cookies",
+        "startDate": "May 2020",
+        "description": "Salmon Cookies store management site. Stores are rendered as objects where they they have auto populated data rendered on a table. Includes a form where a new store can be created and added to the table. Using a 2 dimensional array total cookies sold and total cookies per hour are re-rendered to reflect new data.",
+        "images": [
+          "images/portfolio/salmon-cookies/salmoncookies2.PNG",
+          "images/portfolio/salmon-cookies/salmoncookies.PNG"
         ],
         "url": "",
         "technologies": [
