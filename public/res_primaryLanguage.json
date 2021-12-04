@@ -13,12 +13,12 @@
       {
         "title": "GitStop",
         "startDate": "June 2020",
-        "description": "Play games and compete with the leaderboard at Gitstop!.",
+        "description": "Play games and compete with the leaderboard at Gitstop!",
         "images": [
           "images/portfolio/gitstop/gitstop.png",
           "images/portfolio/gitstop/gitstop2.png"
         ],
-        "url": "",
+        "url": "https://earth-fire-water.github.io/gitstop/index.html",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -35,14 +35,14 @@
         ]
       },
       {
-        "title": "GitStop",
+        "title": "BusMall",
         "startDate": "June 2020",
-        "description": "Play games and compete with the leaderboard at Gitstop!.",
+        "description": "BusMall lab where were practiced data structure queues where new images will render after clicking an image. Images clicked are then added to a counter where after a certain amount of clicks a table will auto render showing which photos were viewed and clicked on an amount of times.",
         "images": [
-          "images/portfolio/gitstop/gitstop.png",
-          "images/portfolio/gitstop/gitstop2.png"
+          "images/portfolio/busmall/busmall.PNG",
+          "images/portfolio/busmall/busmall2.PNG"
         ],
-        "url": "",
+        "url": "https://jamiguel23.github.io/bus-mall/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
