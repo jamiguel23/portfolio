@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
+// import vueIcon from "@iconify/icons-logos/vue";
 import  javaScriptIcon  from '@iconify/icons-logos/javascript';
 
 
