@@ -1,8 +1,9 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import angularIcon from "@iconify/icons-logos/angular-icon";
 import reactIcon from "@iconify/icons-logos/react";
 import vueIcon from "@iconify/icons-logos/vue";
+import  javaScriptIcon  from '@iconify/icons-logos/javascript';
+
 
 class About extends Component {
   render() {
@@ -32,7 +33,7 @@ class About extends Component {
                     alt=" Avatar placeholder"
                   />
                   <Icon
-                    icon={angularIcon}
+                    icon={javaScriptIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
