@@ -35,8 +35,46 @@ Estimate of time needed to complete: 1 hour
 
 Start time: 3:15p
 
-Finish time: _____
+Finish time: 4:30p
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1.25 hours
 
+Number and name of feature: About me 
 
+Estimate of time needed to complete: 1 hour
+
+Start time: 12pm
+
+Finish time: 2:30p
+
+Actual time needed to complete: 2.5 hours
+
+Number and name of feature: Project and skills
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 230p
+
+Finish time: 330
+
+Actual time needed to complete: 2.5 hours
+
+Number and name of feature: Showcase
+
+Estimate of time needed to complete: 30 minutes
+
+Start time: 330
+
+Finish time: 410
+
+Actual time needed to complete: 40 minutes
+
+Number and name of feature: Personalization
+
+Estimate of time needed to complete: 2 hours (will revisit)
+
+Start time: 4:10
+
+Finish time: 510p
+
+Actual time needed to complete: 1 Hour
