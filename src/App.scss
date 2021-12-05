@@ -31,19 +31,19 @@ html {
 
 header {
 	position: relative;
-	height: 520px;
-	min-height: 450px;
+	height: 100px;
+	min-height: 200px;
 	width: 100%;
 	background-size: cover;
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #F0F2F2;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	padding-top: 150px;
+	padding-top: 100px;
 	padding-bottom: 0;
 }
 
@@ -51,6 +51,7 @@ header .nav {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 5px;
+	color: #313131;
 }
 
 .github-corner:hover .octo-arm {
@@ -122,6 +123,7 @@ header h1 {
 #about {
 	background: #fff;
 	overflow: hidden;
+	background-image: url("banner.jpg");
 }
 
 #about h1 {
@@ -139,7 +141,7 @@ header h1 {
 }
 
 .foto div {
-	background: #ffffff;
+	background: #F0F2F2;
 	display: inline-block;
 	margin: 0 auto 5% auto;
 	padding: 10px 10px 5px;
@@ -188,7 +190,7 @@ header h1 {
 }
 
 .polaroid span {
-	background: #ffffff;
+	background: #517EA6;
 	display: inline-block;
 	margin: 55px 75px 30px;
 	padding: 15px 15px 30px;
@@ -231,7 +233,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #465E73;
 }
 
 .experience-icon {
@@ -353,7 +355,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #7B95A6;
 	padding-bottom: 5%;
 }
 
@@ -389,7 +391,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: #517EA6;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -414,7 +416,7 @@ header h1 {
 }
 
 footer {
-	background: #1F1F1F;
+	background: #8A99A6;
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;
